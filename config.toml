@@ -1,4 +1,8 @@
 baseURL = 'https://www.zeul.ca/testblog/'
+canonifyURLs = true
+relativeURLs = true
+
 languageCode = 'en-us'
 title = 'My New foobar Site'
 theme = 'relearn'
+uglyURLs=false
