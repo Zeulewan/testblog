@@ -1,4 +1,4 @@
-baseURL = 'https://zeulewan.github.io/testblog/'
+baseURL = 'https://www.zeulewan.github.io/testblog/'
 languageCode = 'en-us'
 title = 'My New foobar Site'
 theme = 'relearn'
