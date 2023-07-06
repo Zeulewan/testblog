@@ -1,4 +1,4 @@
-baseURL = 'https://www.mordasiewicz.com/testblog/'
+baseURL = 'https://mordasiewicz.com/testblog/'
 canonifyURLs = true
 relativeURLs = true
 
