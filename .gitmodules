@@ -4,3 +4,6 @@
 [submodule "themes/galleriesdeluxe"]
 	path = themes/galleriesdeluxe
 	url = https://github.com/bep/galleriesdeluxe.git
+[submodule "themes/compose"]
+	path = themes/compose
+	url = https://github.com/onweru/compose/
